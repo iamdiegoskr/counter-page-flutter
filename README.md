@@ -1,8 +1,6 @@
 # COUNTER APP
 
-![](https://i.imgur.com/J78aFLR.png)
-
-![](https://i.imgur.com/Y3s2HYS.png)
+![](https://i.imgur.com/lzNvrp5.png)
 
 A new Flutter project.
 

@@ -1,4 +1,8 @@
-# my_own_counter_app
+# COUNTER APP
+
+![](https://i.imgur.com/J78aFLR.png)
+
+![](https://i.imgur.com/Y3s2HYS.png)
 
 A new Flutter project.
 

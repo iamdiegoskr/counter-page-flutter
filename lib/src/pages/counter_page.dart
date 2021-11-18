@@ -30,7 +30,7 @@ class _CounterPageState extends State<CounterPage> {
               Text('$valueCounter',
               style: const TextStyle(
                 fontSize: 44,
-                color: Colors.teal,
+                color: Colors.pink,
                 fontWeight: FontWeight.bold
               ),)
             ],

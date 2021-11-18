@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: TextButton(
           style: TextButton.styleFrom(
-            backgroundColor: Colors.teal,
+            backgroundColor: Colors.redAccent,
             primary: Colors.white
           ),
           child: const Text('Comenzar'),
